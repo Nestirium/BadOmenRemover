@@ -1,0 +1,8 @@
+name: BadOmenRemover
+version: 1.0.0
+api-version: 1.15
+author: Nestirium
+depend:
+  - FabledSkyblock
+main: dev.nest.bor.BadOmenRemover
+description: Removes bad omen effect if you join another non owning island.
